@@ -12,8 +12,8 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div>
     ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
   </div>
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jsilva0612&layout=compact&theme=radical" alt="Top Languages" />
@@ -26,7 +26,7 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div>
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
   </div>
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=Jsilva0612&show_icons=true&theme=radical" alt="GitHub stats" />
@@ -38,7 +38,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div>
-    ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+    ![Mysql](	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
   </div>
 </div>
 
