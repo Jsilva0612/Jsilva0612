@@ -11,7 +11,11 @@
 
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+![](https://github-readme-stats.vercel.app/api?username=Santiago Silva&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Santiago Silva&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago Silva&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### &nbsp;Frontend 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
